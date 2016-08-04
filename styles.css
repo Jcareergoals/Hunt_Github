@@ -1,0 +1,18 @@
+body {background-color: silver;}
+#btn, #content {
+	box-shadow: 3px 3px 5px black; 
+}
+#content {
+	background-color: rgb(240,240,240); 
+	min-height: 100px; 
+	max-width: 700px;
+
+	margin: 25px auto; 
+	overflow: auto;
+	padding: 10px;  
+}
+b {
+	background-color: yellow;
+	padding: 0px 5px; 
+}
+h2 {text-align: center;}	
